@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Documents\VSCode brabos\bin\Debug\net7.0\VSCode brabos.exe
+C:\Users\Vinicius\Documents\VSCode brabos\bin\Debug\net7.0\VSCode brabos.deps.json
+C:\Users\Vinicius\Documents\VSCode brabos\bin\Debug\net7.0\VSCode brabos.runtimeconfig.json
+C:\Users\Vinicius\Documents\VSCode brabos\bin\Debug\net7.0\VSCode brabos.dll
+C:\Users\Vinicius\Documents\VSCode brabos\bin\Debug\net7.0\VSCode brabos.pdb
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.dll
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\refint\VSCode brabos.dll
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.pdb
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\VSCode brabos.genruntimeconfig.cache
+C:\Users\Vinicius\Documents\VSCode brabos\obj\Debug\net7.0\ref\VSCode brabos.dll
