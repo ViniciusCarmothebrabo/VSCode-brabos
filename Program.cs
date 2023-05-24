@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-            
+        try {
             Console.WriteLine("Diga a velocidade do objeto 1 (m/s)");
                 decimal v1 = decimal.Parse(Console.ReadLine());
 
@@ -18,24 +18,30 @@ class Program
             Console.WriteLine("diga o peso do objeto 2");
 
                 decimal p2 = decimal.Parse(Console.ReadLine());
-
-
-
-             areadecalculos(p1, p2, v1, v2);
+            areadecalculos(p1, p2, v1, v2);
             Console.ReadLine();
-        
+
+
+        }
+            catch(Exception erro)
+            {
+                Console.WriteLine("erro, descrição do erro: " + erro);
+            }
+
+
 
     }
 
     static void areadecalculos(decimal p1, decimal p2, decimal v1, decimal v2)
     {
+        
         decimal fator1 = p1 * v1; 
                 decimal fator2 = p2 * v2;
                 decimal sfator = fator1 + fator2;
                 decimal svs = p1 + p2;
                 decimal resultado = sfator / svs;
 
-        if (p1 > p2)  Console.WriteLine("O: " + resultado + "m/s");
+        if (p1 > p2)  Console.WriteLine("O objeto 2 se choca com o objeto 1 e se move em direção contráia a: " + resultado + "m/s");
         else if (p2 > p1) Console.WriteLine("O objeto 2 bate no objeto 1 e os dois objetos andam na mesma direção a: " + resultado + "m/s");
         else if (p2 == p1) Console.WriteLine("Os dois objetos se chocam e andam em direções contrárias a " + resultado + "m/s");
 
